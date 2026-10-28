@@ -1,0 +1,2 @@
+variable,period,n,slope,std_err,intercept,r2,p_value,mk_trend,mk_p_value,mk_tau
+FCO2_RECOMMENDED,All,41212,2.4643265709798476,0.025852369469259773,-4570.953679587872,0.18065841463709956,0.0,,,

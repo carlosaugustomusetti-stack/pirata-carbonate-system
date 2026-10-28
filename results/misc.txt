@@ -1,0 +1,11 @@
+Reference salinity for normalisation: 35.422
+Mean propagated uncertainty u_pH: 0.0414
+Mean propagated uncertainty u_fCO2: 44.9634
+delta_pCO2_temperature: 82.495
+delta_pCO2_biology: 100.952
+T/B: 0.817
+fCO2 calculated - SOCAT (All): n=519, mean=-7.4, overestimated 47.2%, underestimated 52.8%
+fCO2 calculated - SOCAT (Dry): n=146, mean=17.6, overestimated 93.2%, underestimated 6.8%
+fCO2 calculated - SOCAT (Wet): n=373, mean=-17.1, overestimated 29.2%, underestimated 70.8%
+Atmospheric xCO2 trend (Barbados): 1.947 +/- 0.009 ppm/yr
+Sea-surface xCO2 trend (this study): 1.576 +/- 0.027 ppm/yr
